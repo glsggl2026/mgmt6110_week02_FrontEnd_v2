@@ -37,9 +37,11 @@ The grant-matching logic. The user may sense something is off in the match, but 
 
 ---
 ## 4. What did it build that you never sketched
-•	It added what you never asked for. A second screen, a header carrying "MGMT 6110" and a GrantMatch logo, a reset button, a duplicate save button, arrows up and down I didn’t ask in the first version V0 but added in second version. I asked for a screen and received an app.
-•	It decided something you did not know was a decision: The colour thresholds — at what percentage green becomes amber. The order the cards load. The match percentages themselves (78%, 62%, 46%), where I specified a badge but never a range.
-•	It was right where you were wrong. The list of Grant schemes was attached in my prompts but I didn’t intend it to be in the 2nd screen. It built the list as a second screen anyway; I recognised a reference the user needs and wrote it into my revised prompt as if it had been my idea. It would work well as reference for users
+•	It added what I never asked for. A second screen, a header carrying "MGMT 6110" and a GrantMatch logo, a reset button, a duplicate save button, arrows up and down I didn’t ask in the first version V0 but added in second version. I asked for a screen and received an app.
+
+•	It decided something I did not know was a decision: The colour thresholds — at what percentage green becomes amber. The order the cards load. The match percentages themselves (78%, 62%, 46%), where I specified a badge but never a range.
+
+•	It was right where I was wrong. The list of Grant schemes was attached in my prompts but I didn’t intend it to be in the 2nd screen. It built the list as a second screen anyway; I recognised a reference the user needs and wrote it into my revised prompt as if it had been my idea. It would work well as reference for users
 
 ---
 ## 5. Learning pointers for the organisational context
