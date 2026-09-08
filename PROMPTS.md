@@ -1,8 +1,10 @@
 # PROMPTS.md
-**Student:** Zhengyan LU / Gillian · **Course:** MGMT 6110 · **Problem Set 1**
+**Student:** Zhengyan LU / Gillian 
+**Course:** MGMT 6110 · 
+**Problem Set 1**
 **User sentence:** A SME grant applicant opens this screen to figure out the priority of the grants she/he likes to apply for based on the 1) match score and 2) gaps to fill suggested on the screen, and knows it worked when they re-sort the priority by clicking the arrows Up and down and the green banner shows "Priority Saved". They don't write anything new.
 
-**Live link:** [your Vercel production URL, the short one, tested in a private window]
+**Live link:** https://v2-vert-kappa.vercel.app/
 
 ## Prompt 0 - the abandoned conversion with Google AI Studio, as it didn't respond to corrections in the following conversation
 
