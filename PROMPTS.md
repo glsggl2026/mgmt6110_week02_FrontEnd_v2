@@ -12,7 +12,8 @@ GOAL (the only difference from the official version of the master prompt):
 Build the front end of GrantMatch, a web product for SG SME owners who have already general project ideas and want to know which government grant fits closest. Their job on this product is to figure out which grant(s) to apply for first, not to write anything new.
 [screen] shows 3 invented project descriptions as cards, each showing a matched grant from a list below, a match % badge, and a colour shade (green=high, amber=medium, red=low);
 The list of government grants as follows in their full name , in short by initials -- PSG , MRA, GIA, Startup SG founder grant, Startup SG Tech, ADS, SFEC, EEG, REG(E). The suggestion on the screen can only come from this list and not an invented name.
-user drags cards into priority order; it worked when the final order is saved, each card shows its rank number (1, 2, 3), and the frame around all 3 cards flashes green exactly once for half a second then settles into a solid thin green border]
+user drags cards into priority order; it worked when the final order is saved, each card shows its rank number (1, 2, 3), and the frame around all 3 cards flashes green exactly once for half a second then settles into a solid thin green border
+
 ---
 ## Prompt 1 - the master prompt (in a new conversation in AI studio)
 **ROLE:** You are a senior front-end developer building a React web app.
@@ -60,7 +61,7 @@ a missing guardrail is why it appeared.
 ---
 
 ## Prompt 2 - to remove the "save" button
-```
+
 prompted to remove the "save" button in the upper green banner, as it's redundant with the one at the bottom. Revised the prompt to specify my requirements as the first version appeared confusing.
 **What came back:** Fixed 
 **What I changed next and why:** Nothing else
