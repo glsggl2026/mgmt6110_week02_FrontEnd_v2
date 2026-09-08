@@ -70,8 +70,15 @@ prompted to remove the "save" button in the upper green banner, as it's redundan
 
 ---
 
-## Prompt 3 - Update text aid 
-
-Prompted to enforce "then Click Save" to the 2nd line, so visually the text aid serves two requests , the same as in fact. Prompted to update text to make the ask clearer to users.
+## Prompt 3 - A set of prompts here to Update text aid in a few prompts one by one
+remove the arrows beside "first sort by arrow up and down" .
+And change the text to "first sort using arrows in cards" and the 2nd line to "then Click Save Priority"
+Update "first sort using arrows in cards" to "First sort priority using arrows in cards"
 **What came back:** as expected
 **What I changed next and why:** Nothing else
+
+## Prompt 4 - to harmonize color. By prompt 3 I have pushed all the changes to Vercel. Strangely this one didn't successfully get pushed to Github
+prompts: the green color in the logo "G" and "save priority looks too saturated. what hex code is it?
+pls use bg-green-800: #166534 for the two buttons "save priority" and "first sort priority using arrows" , with opacity 100%.
+**What came back:** AI studio has updated the color , but pushing to Github didn't work
+**What I changed next and why:** Nothing.
