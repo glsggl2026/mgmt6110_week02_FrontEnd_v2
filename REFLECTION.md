@@ -6,7 +6,9 @@ Live link: https://v2-vert-kappa.vercel.app/
 ---
 ## 1. Who are your users, and what changes for them? 
 The users are SME owners and founders in Singapore , roughly 371,000 enterprises nationally, of which over 99% are SMEs . Specifically, my users are the subset with a project already in mind, who need to decide which grant to apply for first.
+
 Today that person works through four steps. She finds the schemes on GoBusiness, whose directory lists over 70 named schemes across a dozen sector categories. She filters to the plausible ones. She compares eligibility criteria across them, holding the differences in memory. Then she ranks. Alongside this she may book one of the 10 government-funded SME Centres, which assist about 25,000 enterprises a year, and later a private consultancy for the write-up. GoBusiness also offers an e-Adviser that returns a shortlist from a short questionnaire — but unranked, and with no reasoning she can show a business partner.
+
 GrantMatch removes the first three steps and reorders the fourth. Ranking today happens while still comparing, from memory; on this screen it happens after the comparison is already rendered. The applicant sees three project cards already matched to named grants, each with a percentage score and a plain-language gap statement. Her only job is priority order — arrows up and down, then save. She leaves with a ranking that has reasons attached, which neither the portal nor the advisor produces.
 
 ---
